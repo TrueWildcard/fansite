@@ -1,0 +1,152 @@
+.ending {
+        background-image: url("https://i.imgur.com/90X2Tyn.png");
+         background-repeat: no-repeat;
+         background-size: cover;
+         background-attachment: fixed;
+}
+.endingfont {
+    color: yellow;
+}
+#nav a:hover {
+        color:red;
+ }
+.gloriousfont {
+         color:green;
+}
+
+.glorious {
+    background-image: url("http://forums.terraria.org/index.php?attachments/image-jpg.34407/");
+}
+
+.bloody {
+    background-image:url("https://terraria.org/assets/background/mushroom/layer_4.jpg");
+    color:red;
+}
+.darkness {
+    background-image: url("https://terraria.org/assets/background/cave/layer_4.jpg");
+    width: 100%;
+
+}
+.lifelikeindex {
+    background-image: url("https://terraria.org/assets/background/background-a466e1845d175db247171766446682db.jpg");
+    width: 100%;
+}
+.darknessfont {
+    font-family: font-family: 'Permanent Marker', cursive;
+    color: purple;
+}
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+a {
+    color: white;
+    font-size: 24px;
+    text-decoration: underline;
+    font-family: 'Permanent Marker', cursive;
+}
+a:hover {
+    color: white;
+}
+#banner {
+    margin: 0 auto;
+    padding: 10px;
+    width: 400px;
+    height: 110px;
+    background-image: url("https://terraria.org/assets/logo-203e9bcd9af6ac8193d8b185aa64b8c8.png");
+ 
+}
+
+#nav {
+    white-space: nowrap;
+    text-align: center;
+    opacity: 0.8;
+}
+#nav a {
+    font-family: 'ZCOOL XiaoWei', serif;
+    font-weight: bold;
+    color: #004118;
+    text-transform: uppercase;
+    margin-right: 10px;
+    padding: 10px;
+}
+#wrapper {
+    display:flex;
+
+}
+#main {
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px #008000 solid;
+    border-radius: 20px;
+    opacity: 0.9;
+    padding: 10px;
+    background-color: rgba(102,255,255,.5);
+}
+#alternatediv {
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px #008000 solid;
+    border-radius: 20px;
+    opacity: 0.9;
+    padding: 10px;
+    background-color: rgba(255,0,51,.5);
+}
+#dirt {
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px #008000 solid;
+    border-radius: 20px;
+    opacity: 0.9;
+    padding: 10px;
+    background-color: rgba(51,0,0,.5);
+}
+#hardmode {
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px #008000 solid;
+    border-radius: 20px;
+    opacity: 0.9;
+    padding: 10px;
+}
+
+p {
+   font-family: 'Permanent Marker', cursive;
+    font-size: 15px;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.imgLeft {
+    float: left;
+    margin-right: 15px;
+}
+
+.imgRight {
+    float: right;
+    margin-left: 15px;
+}
+
+#top {
+    text-align:center;
+    font-size: 24px;
+}
+#bosses {
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    color: #004118;
+    text-transform: uppercase;
+    margin-right: 10px;
+    padding: 10px;
+}
